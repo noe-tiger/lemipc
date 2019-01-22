@@ -31,4 +31,4 @@ If you want more players on the map, just launch the program again in an other t
 
 
 ## contributors
-* alexandre1.tahery@epitech.eu
+* william.tessari@epitech.eu
